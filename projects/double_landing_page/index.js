@@ -17,4 +17,3 @@ rightEl.addEventListener("mouseenter", () => {
 rightEl.addEventListener("mouseleave", () => {
     containerEl.classList.remove("active-right");
 });
-
